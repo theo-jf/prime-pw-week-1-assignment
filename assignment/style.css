@@ -3,6 +3,7 @@ body {
     background: rgb(24, 28, 31);
     margin: 0;
 }
+
 /* Make the header and footer a different color from the background */
 header {
     background: black;
